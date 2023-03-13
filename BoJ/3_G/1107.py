@@ -21,3 +21,4 @@ for _ in range(999999):
             min_clicks = min(min_clicks, abs(int(_) - N) + len(_))
 
 print(min_clicks)
+
