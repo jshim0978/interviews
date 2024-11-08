@@ -14,7 +14,7 @@ for i in range(testCases):
 def bridging(n,m):
     if n>m :
         return 
-   
+
     diff = m-n
 
     if diff == 0 :
